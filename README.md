@@ -1,16 +1,11 @@
 # flutter_helloworld
 
-A new Flutter project.
+NIM : 2031710131
+Nama : Guntur Bagus Aryoga
+Kelas : MI-2C
+Prodi : D3-MI
 
-## Getting Started
+## Hasil Praktikum
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshoot saat belum di tambah](/img/Screenshoot1.jpgScreenshot1.jpg)
+![Screenshoot saat belum di tambah](/img/Screenshoot1.jpgScreenshot2.jpg)
